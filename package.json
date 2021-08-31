@@ -1,0 +1,36 @@
+{
+  "name": "full_stack_open_part3",
+  "version": "1.0.0",
+  "description": "exercise 3 full stack open",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junah-Park/Full_Stack_Open_part3.git"
+  },
+  "keywords": [
+    "nodejs",
+    "full",
+    "stack",
+    "open",
+    "part3"
+  ],
+  "author": "Junah Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junah-Park/Full_Stack_Open_part3/issues"
+  },
+  "homepage": "https://github.com/Junah-Park/Full_Stack_Open_part3#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
